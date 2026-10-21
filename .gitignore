@@ -1,0 +1,15 @@
+app
+logs
+cache
+node_modules
+.DS_Store
+# Written by Pinokio on this computer (its settings and AI-assistant guides).
+ENVIRONMENT
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+QWEN.md
+.clinerules
+.cursorrules
+.windsurfrules
+.geminiignore
